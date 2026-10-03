@@ -1,0 +1,2 @@
+tickets_total,tier1_tickets,tier1_csat,sla_breaches_tier1,sla_credit_exposure_inr,replacement_count,replacement_cost_inr,raw_negative_handle,negative_handle_after_fix,goal_reduction_pct,goal_savings_inr
+11750,10446,3.421292281006071,951,332850,1896,3415990.0,2309,0,20,66570.0

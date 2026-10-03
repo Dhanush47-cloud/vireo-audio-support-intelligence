@@ -1,0 +1,11 @@
+check,actual,expected,pass
+tickets,11750,11750,True
+agents,44,44,True
+orders,15500,15500,True
+customers,9500,9500,True
+products,14,14,True
+tier1,38,38,True
+tier2,6,6,True
+blank_csat,6554,6554,True
+raw_negative_handle,2309,2309,True
+negative_handle_after_fix,0,0,True
